@@ -1,1 +1,1 @@
-fist webpage, siple recipes
+fist webpage, simple recipes
